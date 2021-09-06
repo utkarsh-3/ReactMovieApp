@@ -1,0 +1,14 @@
+.btn {
+    border-color: white;
+    
+}
+.page-footer{
+    position: absolute;
+   
+    width: 100%;
+}
+.headerIntro{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
